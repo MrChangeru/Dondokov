@@ -1,0 +1,35 @@
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\obj\Debug\Model.Form1.resources
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Model.exe
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Model.pdb
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.FreeGlut.dll
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.OpenGl.dll
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.DevIl.xml
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.FreeGlut.xml
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.OpenGl.xml
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\obj\Debug\Model.exe
+C:\Users\student\Downloads\source_urok_13_esate.ru\Model\obj\Debug\Model.pdb
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Model.exe.config
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Model.exe
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Model.pdb
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.DevIl.dll
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.FreeGlut.dll
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.OpenGl.dll
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.DevIl.xml
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.FreeGlut.xml
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.OpenGl.xml
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.SuggestedBindingRedirects.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.Form1.resources
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.exe
+C:\Users\chang\Desktop\ВСГУТУ\Геометрия и топология 2\source_urok_13_esate.ru\Model\obj\Debug\Model.pdb
